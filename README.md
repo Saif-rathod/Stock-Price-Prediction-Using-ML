@@ -32,7 +32,7 @@ pip install pandas numpy matplotlib plotly scikit-learn chart-studio
 Run the script to perform the analysis and prediction:
 
 ```python
-python stock_pred.py
+python stock.ipynb
 
 ```
 
